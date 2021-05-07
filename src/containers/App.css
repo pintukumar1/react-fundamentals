@@ -2,27 +2,3 @@
     text-align: center;
 }
 
-.BtnStyle {
-    background-color: white;
-    font: inherit;
-    border: 1px solid blue;
-    cursor: pointer;
-    border-radius: 10px;
-}
-
-.BtnStyle:hover {
-    background-color: pink;
-    color: black;
-    border: 1px solid red;
-    padding: 8px;
-}
-
-.red{
-    color: red;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-
